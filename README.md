@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Amerigo DeVera
 
-<!--
-**AmerigoDeVera/AmerigoDeVera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a global operations and service-delivery leader with 20+ years of
+experience across healthcare, insurance, contact centers, and BPO.
 
-Here are some ideas to get you started:
+I’m interested in practical AI-enabled workflows that improve service
+quality, agent support, and operational efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of focus
+- Healthcare and insurance operations
+- Contact-center performance and workforce strategy
+- AI agents and BPaaS service design
+
+## What you'll find here
+- Service-delivery and performance-management frameworks
+- AI-assisted workflow concepts
+- Process-improvement examples
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/amerigo-devera-561821a/)
